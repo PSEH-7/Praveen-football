@@ -1,0 +1,20 @@
+{
+"leagues": [{
+"id":1,
+"name":"league 1",
+"teams":[
+{"id":1,"name":"team1","position":1, "country":{"id":1,"name":"india"}},
+{"id":2,"name":"team2","position":2,"country":{"id":1,"name":"india"}},
+{"id":3,"name":"team3","position":3,"country":{"id":2,"name":"london"}}
+]
+},
+{
+"id":2,
+"name":"league 2",
+"teams":[
+{"id":1,"name":"team1","position":1, "country":{"id":1,"name":"india"}},
+{"id":2,"name":"team2","position":2,"country":{"id":1,"name":"india"}},
+{"id":3,"name":"team3","position":3,"country":{"id":2,"name":"london"}}
+]
+}
+]}
